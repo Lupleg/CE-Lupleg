@@ -1,10 +1,10 @@
 # CovexDB
 
-In the ever-evolving world of technology, databases play a crucial role in managing and storing data efficiently. Convex is a powerful database and application platform designed to simplify data management and application development. If you're looking to learn how to use Convex effectively, this guide will provide you with a structured approach to get started.
+In the ever-evolving world of technology, databases are crucial for managing and storing data efficiently. Convex is a powerful database and application platform designed to simplify data management and application development. This guide will provide you with a structured approach to learning how to use Convex effectively.
 
 ### 1. Understand the Basics
 
-Before diving into Convex, it's essential to have a solid understanding of database fundamentals. This includes knowledge of both relational and non-relational databases, data modeling, and querying. Familiarizing yourself with these concepts will provide a strong foundation for learning Convex.
+Before diving into Convex, it's essential to have a solid understanding of database fundamentals. This includes knowledge of both relational and non-relational databases, data modelling, and querying. Familiarizing yourself with these concepts will provide a strong foundation for learning Convex.
 
 ### 2. Explore Convex Overview
 
@@ -20,11 +20,11 @@ In addition to the general documentation, make sure to go through the API refere
 
 ### 4. Follow Tutorials and Guides
 
-To gain practical experience, follow the getting started guide provided by Convex. This guide typically includes step-by-step instructions to set up your first project. Additionally, look for sample projects or example applications that use Convex. These examples can provide valuable insights into how to structure your own projects.
+To gain practical experience, follow the getting started guide provided by Convex. This guide typically includes step-by-step instructions to set up your first project. Additionally, look for sample projects or example applications that use Convex. These examples can provide valuable insights into how to structure your projects.
 
 ### 5. Hands-On Practice
 
-The best way to learn is by doing. Create a new project using Convex and start with a simple application to get a feel for the platform. Experiment with different features and functionalities, such as data modeling and querying, to understand how they work in practice.
+The best way to learn is by doing. Create a new project using Convex and start with a simple application to get a feel for the platform. Experiment with different features and functionalities, such as data modelling and querying, to understand how they work in practice.
 
 ### 6. Engage with the Community
 
@@ -56,4 +56,4 @@ Learning to use Convex for database applications involves a combination of theor
 
 ---
 
-By following these steps, you can embark on a successful journey to learn and master Convex for database applications. Happy learning!
+Following these steps, you can embark on a successful journey to [learn and master Convex for database applications](https://devcircleafrica.com/how-to-learn-to-use-convex-for-database-applications/). Happy learning!
